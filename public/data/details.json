@@ -1,0 +1,24 @@
+[{
+      "Name": "Faidhi",
+      "Company": "Petronas",
+      "Nok": "Shu",
+      "Status": "Injured",
+      "SentTo": "Hospital",
+      "Triage": "Red"
+    },
+    {
+      "Name": "Man",
+      "Company": "Others",
+      "Nok": "Yani",
+      "Status": "Injured",
+      "SentTo": "Hospital",
+      "Triage": "Black"
+    },
+    {
+      "Name": "Izad",
+      "Company": "Contractor",
+      "Nok": "Fairuz",
+      "Status": "Injured",
+      "SentTo": "Hospital",
+      "Triage": "Yellow"
+}]

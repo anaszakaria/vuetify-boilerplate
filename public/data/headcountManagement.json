@@ -1,0 +1,23 @@
+[
+    {
+        "id": "PPTSB-1563348524030-1563348524033",
+        "emergencyId": "PPTSB-1563348524030",
+        "name": "Wen Lat Gee",
+        "staffId": "324445",
+        "attendance": 1
+    },
+    {
+        "id": "PPTSB-1563348524030-1563348524032",
+        "emergencyId": "PPTSB-1563348524030",
+        "name": "Hazim Haikal",
+        "staffId": "639654",
+        "attendance": 0
+    },
+    {
+        "id": "PPTSB-1563348524030-1563348524030",
+        "emergencyId": "PPTSB-1563348524030",
+        "name": "Ahmad bin Abu",
+        "staffId": "177635",
+        "attendance": 0
+    }
+]

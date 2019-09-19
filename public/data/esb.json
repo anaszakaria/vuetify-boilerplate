@@ -1,0 +1,158 @@
+{
+    "id": "PPTSB-1563348524030",
+    "emergencyInfo": {
+        "id": "PPTSB-1563348524030",
+        "emergencyDataId": "PPTSB-1563348524030",
+        "emergencyName": "Test Emergency",
+        "location": "PPTSB",
+        "mode": "emergency",
+        "responseTierData": 1,
+        "radioChannel": null,
+        "phoneNumber": null,
+        "faxNumber": null,
+        "dateCr": "2019-07-17T00:00:00",
+        "date": null,
+        "time": null
+    },
+    "natureOfEmergency": {
+        "id": "PPTSB-1563348524030",
+        "emergencyDataId": "PPTSB-1563348524030",
+        "hsseAndProcessSafety": {
+            "id": "PPTSB-1563348524030",
+            "natureOfEmergencyId": "092f464f-d2f7-4548-8be4-35ae36a7c929",
+            "type": null,
+            "hsseType": "FIRE,EXPLOSION,LO PC (GASEOUS)",
+            "releasedVolume": 1000,
+            "volumeUnit": 150,
+            "recoveredVolume": 1639,
+            "others": null
+        },
+        "security": {
+            "id": "PPTSB-1563348524030",
+            "natureOfEmergencyId": "092f464f-d2f7-4548-8be4-35ae36a7c929",
+            "type": null,
+            "hsseType": null,
+            "others": null
+        },
+        "transportation": {
+            "id": "PPTSB-1563348524030",
+            "natureOfEmergencyId": "092f464f-d2f7-4548-8be4-35ae36a7c929",
+            "type": null,
+            "hsseType": null,
+            "others": null
+        },
+        "naturalDisaster": {
+            "id": "PPTSB-1563348524030",
+            "natureOfEmergencyId": "092f464f-d2f7-4548-8be4-35ae36a7c929",
+            "type": null,
+            "hsseType": null,
+            "others": null
+        }
+    },
+    "weatherStatus": [
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "dateCr": "0001-01-01T00:00:00",
+            "weather": null,
+            "windDirection": null,
+            "windSpeed": null
+        },
+        {
+            "id": "PPTSB-1563348524030-1",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "dateCr": "0001-01-01T00:00:00",
+            "weather": null,
+            "windDirection": null,
+            "windSpeed": null
+        },
+        {
+            "id": "PPTSB-1563348524030-2",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "dateCr": "0001-01-01T00:00:00",
+            "weather": null,
+            "windDirection": null,
+            "windSpeed": null
+        },
+        {
+            "id": "PPTSB-1563348524030-3",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "dateCr": "0001-01-01T00:00:00",
+            "weather": null,
+            "windDirection": null,
+            "windSpeed": null
+        },
+        {
+            "id": "PPTSB-1563348524030-4",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "dateCr": "0001-01-01T00:00:00",
+            "weather": null,
+            "windDirection": null,
+            "windSpeed": null
+        }
+    ],
+    "emergencyContactNo": [
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "agencies": "Police / Ambulance",
+            "contactNo": "999"
+        },
+        {
+            "id": "PPTSB-1563348524030-1",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "agencies": "Fire and Rescue Department",
+            "contactNo": "994 "
+        },
+        {
+            "id": "PPTSB-1563348524030-2",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "agencies": "Civil Defence",
+            "contactNo": "991"
+        },
+        {
+            "id": "PPTSB-1563348524030-3",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "agencies": "Gas emergency",
+            "contactNo": "995"
+        },
+        {
+            "id": "PPTSB-1563348524030-4",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "agencies": "Power failure",
+            "contactNo": "15454"
+        }
+    ],
+    "responsePrioritiesData": [
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "response": "Protective Actions for Life Safety"
+        },
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "response": "Evacuation"
+        },
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "response": "Sheltering"
+        },
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "response": "Incident Stabilization"
+        },
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "response": "Developing the Emergency Plan"
+        },
+        {
+            "id": "PPTSB-1563348524030-0",
+            "emergencyDataId": "PPTSB-1563348524030",
+            "response": "Warning, Notifications, and Communications"
+        }
+    ]
+}

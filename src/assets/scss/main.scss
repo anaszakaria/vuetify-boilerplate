@@ -1,0 +1,121 @@
+* { text-transform: none !important; }
+
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-weight: 100;
+//     src: url("assets/fonts/MuseoSans_100.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-style: italic;
+//     font-weight: 300;
+//     src: url("assets/fonts/MuseoSans_300_Italic.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-weight: 300;
+//     src: url("assets/fonts/MuseoSans_300.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-weight: 500;
+//     src: url("assets/fonts/MuseoSans_500.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-style: italic;
+//     font-weight: 700;
+//     src: url("assets/fonts/MuseoSans_700_Italic.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-weight: 700;
+//     src: url("assets/fonts/MuseoSans_700.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-style: italic;
+//     font-weight: 900;
+//     src: url("assets/fonts/MuseoSans_900_Italic.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+//
+// @font-face {
+//     font-family: 'MuseoSans' !important;
+//     font-weight: 900;
+//     src: url("assets/fonts/MuseoSans_900.otf");
+//     unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+// }
+
+// GENERAL CLASSES
+.pointer {
+    cursor: pointer !important;
+}
+
+// OVERRIDE VUETIFY
+.v-input, .v-label, .v-select__selection, .v-list-item__title {
+    font-size: 14px;
+}
+
+.v-list-item {
+    min-height: 38px;
+}
+
+.v-list-item__content {
+    padding: 6px 0;
+}
+
+.v-treeview-node__root {
+    min-height: 32px !important;
+}
+
+.v-treeview-node__label, .v-data-table td {
+    font-size: 13px !important;
+}
+
+#left-panel {
+    a.v-tab {
+        font-size: 11px;
+        padding: 4px 6px;
+        width: 60px !important;
+    }
+}
+
+#facilities-container {
+    .v-input input {
+        caret-color: #666666;
+    }
+    .v-text-field.v-text-field--solo .v-input__control {
+        min-height: 36px;
+    }
+}
+
+// ROUTER VIEW TRANSITION
+.slide-enter-active {
+    transition: all .3s;
+}
+
+.slide-enter {
+    margin-top: 24px;
+    opacity: 0;
+}
+
+.slide-leave-active {
+    display: none;
+}
+
+.slide-leave-to {
+    display: none;
+}

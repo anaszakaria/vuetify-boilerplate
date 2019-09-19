@@ -1,0 +1,22 @@
+[{
+		"NoOfCasualties": "PETRONAS",
+		"Injured": "3",
+		"Fatal": "0",
+		"Missing": "1",
+		"Unknown": "0"
+	},
+	{
+		"NoOfCasualties": "CONTRACTOR",
+		"Injured": "1",
+		"Fatal": "0",
+		"Missing": "1",
+		"Unknown": "0"
+	},
+	{
+		"NoOfCasualties": "OTHERS",
+		"Injured": "5",
+		"Fatal": "0",
+		"Missing": "0",
+		"Unknown": "0"
+	}
+]
