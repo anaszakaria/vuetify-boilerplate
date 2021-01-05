@@ -9,7 +9,7 @@
     "dependencies": {
         "@babel/polyfill": "^7.4.4",
         "@mdi/font": "^4.4.95",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "core-js": "^2.6.5",
         "esri-loader": "^2.10.0",
         "moment": "^2.24.0",
