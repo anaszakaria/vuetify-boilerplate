@@ -13,7 +13,7 @@
         "core-js": "^2.6.5",
         "esri-loader": "^2.10.0",
         "moment": "^2.24.0",
-        "moment-timezone": "^0.5.26",
+        "moment-timezone": "^0.5.35",
         "pdfmake": "^0.1.58",
         "roboto-fontface": "*",
         "tiptap": "^1.24.0",
